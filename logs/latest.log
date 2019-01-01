@@ -1,0 +1,259 @@
+[18:00:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:00:17] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2796 for Minecraft 1.12.2 loading
+[18:00:17] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_45
+[18:00:17] [main/INFO] [FML]: Searching C:\Users\Kid_Sander\Desktop\mini\.\mods for mods
+[18:00:17] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenComputers_MC1.12.2_1.7.3.146.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:00:17] [main/WARN] [FML]: The coremod li.cil.oc.common.launch.TransformerLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:00:17] [main/WARN] [FML]: The coremod TransformerLoader (li.cil.oc.common.launch.TransformerLoader) is not signed!
+[18:00:17] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenSecurity-MC1.12.2-1.0-13.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:00:17] [main/WARN] [FML]: The coremod pcl.opensecurity.util.SoundUnpack does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:00:17] [main/WARN] [FML]: The coremod SoundUnpack (pcl.opensecurity.util.SoundUnpack) is not signed!
+[18:00:17] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_E3.jar
+[18:00:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:00:17] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:00:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:00:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[18:00:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:00:20] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:00:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:00:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:00:20] [main/INFO] [STDOUT]: [pcl.opensecurity.util.SoundUnpack:load:23]: Extracting sounds from: assets/opensecurity/sounds/alarms/
+[18:00:20] [main/INFO] [STDOUT]: [pcl.opensecurity.util.SoundUnpack:load:35]: Extracting file: klaxon2.ogg
+[18:00:20] [main/INFO] [STDOUT]: [pcl.opensecurity.util.SoundUnpack:load:35]: Extracting file: klaxon1.ogg
+[18:00:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:00:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:00:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:00:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:00:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:00:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:00:25] [main/INFO] [OpenComputers]: Successfully patched net/minecraft/entity/EntityLiving.recreateLeash.
+[18:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:00:29] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2796 Initialized
+[18:00:29] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:00:30] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[18:00:31] [Server thread/INFO] [FML]: Searching C:\Users\Kid_Sander\Desktop\mini\.\mods for mods
+[18:00:32] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.55.839
+[18:00:33] [Server thread/INFO] [FML]: Disabling mod xaeroworldmap it is client side only.
+[18:00:33] [Server thread/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
+[18:00:33] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:00:33] [Server thread/WARN] [FML]: Missing English translation for fakename: assets/fakename/lang/en_us.lang
+[18:00:33] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[18:00:33] [Server thread/WARN] [FML]: Missing English translation for imvoice: assets/imvoice/lang/en_us.lang
+[18:00:33] [Server thread/INFO] [FML]: FML has found a non-mod file XaerosWorldMap_1.2.4_Forge_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[18:00:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, opencomputers|core, advanced_solar_panels, backpack, fakename, hpm, ic2, ironchest, jei, opencomputers, opensecurity, treechopper, imvoice] at CLIENT
+[18:00:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, opencomputers|core, advanced_solar_panels, backpack, fakename, hpm, ic2, ironchest, jei, opencomputers, opensecurity, treechopper, imvoice] at SERVER
+[18:00:35] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[18:00:36] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:00:36] [Server thread/INFO] [FML]: Found 1209 ObjectHolder annotations
+[18:00:36] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:00:36] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:00:36] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:00:36] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:00:36] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[18:00:36] [Forge Version Check/INFO] [forge.VersionCheck]: [opensecurity] Starting version check at http://modupdates.pc-logix.com/opensecurity
+[18:00:37] [Forge Version Check/INFO] [forge.VersionCheck]: [opensecurity] Found status: AHEAD Target: null
+[18:00:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `molecular_transformer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_generator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `advanced_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `hybrid_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `ultimate_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[18:00:42] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[18:00:43] [Server thread/INFO] [advanced_solar_panels]: Loading ASP Config from C:\Users\Kid_Sander\Desktop\mini\config\advanced_solar_panels.cfg
+[18:00:43] [Server thread/INFO] [advanced_solar_panels]: Loading MT Recipes from C:\Users\Kid_Sander\Desktop\mini\config\advanced_solar_panels_MTRecipes.cfg
+[18:00:43] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.item.EntityItem from class com.maxgjones121.harrypottermod.blocks.BlockMandrake
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `expelliarmus`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `confringo`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lumos`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stupefy`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `accio`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `apparate`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `alarteascendare`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `arrestomomentum`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `herbivicus`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `patronuscharge`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wingardiumleviosa`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sectumsempra`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `patronus`, expected `hpm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: gillyweedblock
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: firegrassblock
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: mandrakeblock
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronblock
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronwood1
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronwood2
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronwood3
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronwood4
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronwoodcomplete
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronlit
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronlitfireseedsadded
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronfireprotectionpotion
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldronfiretonicpotion
+[18:00:43] [Server thread/INFO] [hpm]: Registered Block: hpmcauldrongillywater
+[18:00:43] [Server thread/INFO] [hpm]: Registered Item: gillyweedboots
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `adapter`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/INFO] [OpenComputers]: Injecting interface ic2.api.energy.tile.IEnergySink into li.cil.oc.common.tileentity.traits.power.IndustrialCraft2Experimental.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `assembler`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `cable`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `capacitor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `carpetedcapacitor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `case`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `charger`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `diskdrive`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `disassembler`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `keyboard`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `hologram`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `geolyzer`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `microcontroller`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `motionsensor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `netsplitter`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `powerconverter`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `powerdistributor`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `print`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `printer`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `raid`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `redstone`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `relay`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `robot`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `screen`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `rack`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `transposer`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `oc` for name `waypoint`, expected `opencomputers`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:45] [Server thread/INFO] [OpenComputers]: Injecting interface ic2.api.item.IBoxable into li.cil.oc.common.item.Wrench.
+[18:00:45] [Server thread/INFO] [OpenComputers]: Injecting interface ic2.api.item.ISpecialElectricItem into li.cil.oc.common.item.traits.Chargeable.
+[18:00:45] [Server thread/INFO] [opencomputers]: Initializing OpenComputers API.
+[18:00:54] [Server thread/INFO] [opencomputers]: Found a compatible native library: 'OpenComputersMod-1.7.3.146-lua52-native.64.dll'.
+[18:00:54] [Server thread/INFO] [opencomputers]: Found a compatible native library: 'OpenComputersMod-1.7.3.146-lua53-native.64.dll'.
+[18:00:54] [Server thread/INFO] [opencomputers]: Done with pre init phase.
+[18:00:54] [Server thread/INFO] [opensecurity]: Registering BreakEvent
+[18:00:54] [Server thread/INFO] [opensecurity]: Registered Events
+[18:00:54] [Server thread/INFO] [opensecurity]: Registered 3 packets
+[18:00:54] [Server thread/INFO] [opensecurity]: Finished pre-init in 31 ms
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[18:00:54] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:54] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:54] [Server thread/INFO] [Backpack]: Loading items...
+[18:00:54] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[18:00:54] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:54] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:54] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:54] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:54] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:54] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:55] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:00:55] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:00:55] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[18:00:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:00:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:00:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:00:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:00:56] [Server thread/INFO] [Backpack]: Loading recipes...
+[18:00:56] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[18:00:56] [Server thread/INFO] [opensecurity]: Registered Recipes
+[18:00:56] [Server thread/INFO] [FML]: Applying holder lookups
+[18:00:56] [Server thread/INFO] [FML]: Holder lookups applied
+[18:00:57] [Server thread/INFO] [advanced_solar_panels]: Loading Molecular Transformer recipes from file
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 23 as the output (OreDict:gemSapphire) cannot be resolved
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 24 as the output (OreDict:gemRuby) cannot be resolved
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 27 as the output (OreDict:dustChrome) cannot be resolved
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 28 as the output (OreDict:ingotChrome) cannot be resolved
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 29 as the output (OreDict:gemCertusQuartz) cannot be resolved
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 30 as the output (OreDict:ingotNickel) cannot be resolved
+[18:00:57] [Server thread/WARN] [advanced_solar_panels]: Skipping line 33 as the output (OreDict:ingotPlatinum) cannot be resolved
+[18:00:57] [Server thread/INFO] [advanced_solar_panels]: Load complete, successfully loaded 15 out of 22.
+[18:00:59] [Server thread/INFO] [opencomputers]: Found extended redstone mods, enabling tier two redstone card.
+[18:00:59] [Server thread/INFO] [opencomputers]: Initializing capabilities.
+[18:00:59] [Server thread/INFO] [opencomputers]: Done with init phase.
+[18:00:59] [Server thread/INFO] [opensecurity]: Finished init in 10 ms
+[18:00:59] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:00:59] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:00:59] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[18:01:00] [Server thread/INFO] [ic2.General]: ic2 version 2.8.105-ex112 loaded.
+[18:01:00] [Server thread/INFO] [opencomputers]: Done with post init phase.
+[18:01:00] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 16 mods
+[18:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:01:00] [Configuration Process/INFO] [Immersive Voice]: No Configuration file found on server, will create one with default settings.
+[18:01:01] [Configuration Process/INFO] [Immersive Voice]: Created Configuration file with default settings on server.
+[18:01:01] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@41f2c0)
+[18:01:02] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[18:01:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Unable to find spawn biome
+[18:01:03] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@41f2c0)
+[18:01:03] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@41f2c0)
+[18:01:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:01:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[18:01:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[18:01:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[18:01:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[18:01:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
+[18:01:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 25%
+[18:01:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 33%
+[18:01:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[18:01:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 46%
+[18:01:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[18:01:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
+[18:01:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 69%
+[18:01:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[18:01:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
+[18:01:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 97%
+[18:01:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (18,724s)! For help, type "help" or "?"
+[18:01:19] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:01:19] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:01:20] [Voice Server Process/INFO] [Immersive Voice]: Started [UDP] Server.
+[18:01:20] [net.gliby.voicechat.common.networking.voiceservers.udp.UdpServer/WARN] [Immersive Voice]: If the server cannot bind: Switch to Minecraft Networking in config or setup UDP properly, that means port-forwarding.
+[18:01:20] [net.gliby.voicechat.common.networking.voiceservers.udp.UdpServer/WARN] [Immersive Voice]: Server closed unexpectedly: Cannot assign requested address: Cannot bind
+java.net.BindException: Cannot assign requested address: Cannot bind
+	at java.net.TwoStacksPlainDatagramSocketImpl.bind0(Native Method) ~[?:1.8.0_45]
+	at java.net.TwoStacksPlainDatagramSocketImpl.bind0(Unknown Source) ~[?:1.8.0_45]
+	at java.net.AbstractPlainDatagramSocketImpl.bind(Unknown Source) ~[?:1.8.0_45]
+	at java.net.TwoStacksPlainDatagramSocketImpl.bind(Unknown Source) ~[?:1.8.0_45]
+	at java.net.DatagramSocket.bind(Unknown Source) ~[?:1.8.0_45]
+	at java.net.MulticastSocket.<init>(Unknown Source) ~[?:1.8.0_45]
+	at net.gliby.voicechat.common.networking.voiceservers.udp.UdpServer.runServer(UdpServer.java:224) [UdpServer.class:?]
+	at net.gliby.voicechat.common.networking.voiceservers.udp.UdpServer$2.run(UdpServer.java:294) [UdpServer$2.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[18:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[18:01:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:01:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:01:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:01:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:01:30] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:01:30] [Server thread/INFO] [Immersive Voice]: Stopped Voice Server.
+[18:01:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:01:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:01:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

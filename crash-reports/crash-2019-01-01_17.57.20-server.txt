@@ -1,0 +1,75 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.1.181.jar)
+  TransformerLoader (OpenComputers_MC1.12.2_1.7.3.146.jar)
+  SoundUnpack (OpenSecurity-MC1.12.2-1.0-13.jar)
+Contact their authors BEFORE contacting forge
+
+// On the bright side, I bought you a teddy bear!
+
+Time: 01.01.19 17:57
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: 37.230.210.90 
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(Unknown Source)
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source)
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getByName(Unknown Source)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:176)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 672166376 bytes (641 MB) / 1035993088 bytes (988 MB) up to 1035993088 bytes (988 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2796 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                    | Version           | Source                                    | Signature                                |
+	|:----- |:--------------------- |:----------------- |:----------------------------------------- |:---------------------------------------- |
+	| LCH   | minecraft             | 1.12.2            | minecraft.jar                             | None                                     |
+	| LCH   | mcp                   | 9.42              | minecraft.jar                             | None                                     |
+	| LCH   | FML                   | 8.0.99.99         | forge_server.jar                          | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | forge                 | 14.23.5.2796      | forge_server.jar                          | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | micdoodlecore         |                   | minecraft.jar                             | None                                     |
+	| LCH   | opencomputers|core    | 1.7.3.146         | minecraft.jar                             | None                                     |
+	| LCH   | ic2                   | 2.8.105-ex112     | industrialcraft-2-2.8.105-ex112.jar       | de041f9f6187debbc77034a344134053277aa3b0 |
+	| LCH   | advanced_solar_panels | 4.2.0             | AdvancedSolarPanels_1.12.2_4.2.0.jar      | None                                     |
+	| LCH   | backpack              | 3.0.2             | backpack-3.0.2-1.12.2.jar                 | None                                     |
+	| LCH   | galacticraftcore      | 4.0.1.181         | GalacticraftCore-1.12.2-4.0.1.181.jar     | None                                     |
+	| LCH   | galacticraftplanets   | 4.0.1.181         | Galacticraft-Planets-1.12.2-4.0.1.181.jar | None                                     |
+	| LCH   | mjrlegendslib         | 1.12.2-1.1.6      | MJRLegendsLib-1.12.2-1.1.6.jar            | b02331787272ec3515ebe63ecdeea0d746653468 |
+	| LCH   | extraplanets          | 1.12.2-0.4.6      | ExtraPlanets-1.12.2-0.4.6.jar             | b02331787272ec3515ebe63ecdeea0d746653468 |
+	| LCH   | fakename              | 1.1               | Fakename_MC1.12.2_v1.1.jar                | None                                     |
+	| LCH   | hpm                   | §aMC 1.12.2       | Harry_Potter_Mod_1.12.2_1.2.jar           | None                                     |
+	| LCH   | ironchest             | 1.12.2-7.0.55.839 | ironchest-1.12.2-7.0.55.839.jar           | None                                     |
+	| LCH   | jei                   | 4.13.1.224        | jei_1.12.2_4.13.1.224.jar                 | None                                     |
+	| LCH   | opencomputers         | 1.7.3.146         | OpenComputers_MC1.12.2_1.7.3.146.jar      | None                                     |
+	| LCH   | opensecurity          | 1.0-13            | OpenSecurity-MC1.12.2-1.0-13.jar          | None                                     |
+	| LCH   | treechopper           | 1.2.4             | TreeChopper_1.12.2_1.2.4.jar              | None                                     |
+	| LCH   | imvoice               | 0.7.0             | VoiceChat_1.12.2_0.7.0 (1).jar            | None                                     |
+
+	Loaded coremods (and transformers): 
+MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.1.181.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+TransformerLoader (OpenComputers_MC1.12.2_1.7.3.146.jar)
+  li.cil.oc.common.asm.ClassTransformer
+SoundUnpack (OpenSecurity-MC1.12.2-1.0-13.jar)
+  
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
